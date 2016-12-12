@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ApiService } from './app.api';
+import { LocationFilter } from './app.component.locationFilter';
 
 @Component({
   selector: 'app-root',

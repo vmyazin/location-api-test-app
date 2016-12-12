@@ -1,0 +1,19 @@
+<div class="row">
+  <form class="col s12">
+    <div class="row">
+    	<blockquote>{{title}}</blockquote>
+
+      <div class="input-field col s6">
+        <label for="name">Filter</label>
+        <input [(ngModel)]="searchObject.name" id="name" type="text" class="validate" [ngModelOptions]="{standalone: true}">
+      </div>
+    </div>
+
+    <div class="row">
+      <ul class="collection">
+        <li class="collection-item" *ngFor="let item of (loadedData | search:searchObject.name:'typedShit')">{{item.name}}</li>
+      </ul>
+
+    </div>
+  </form>
+</div>

@@ -1,0 +1,62 @@
+[
+  {
+    "longitude": "47.953862",
+    "latitude": "62.551302",
+    "about": "Aute et dolore dolore dolor. Do veniam cillum sit aliqua Lorem pariatur et commodo ut do. Lorem nisi sit eu elit dolore laboris tempor proident nisi cillum exercitation dolore. Labore pariatur ut tempor esse sunt dolore ad sunt tempor. Minim ea Lorem Lorem aliquip officia laboris cillum eu sunt enim nisi. Eu id ad irure eu mollit anim magna ipsum est proident. Tempor nostrud mollit ex non incididunt laboris velit do elit ea nostrud.",
+    "address": "926 Glendale Court, Coinjock, Arkansas, 597",
+    "phone": "+1 (892) 426-2398",
+    "email": "undefined.undefined@undefined.org",
+    "name": "Elita",
+    "guid": "538c8072-d1c2-481b-98b9-4c7b4329d70b",
+    "index": 0,
+    "_id": "584e149534885ae2c7117e99"
+  },
+  {
+    "longitude": "171.883709",
+    "latitude": "46.142891",
+    "about": "Ipsum fugiat ipsum exercitation laborum consequat velit irure. Ea laboris tempor laborum dolore ipsum culpa deserunt aute culpa proident enim. Irure proident enim pariatur sunt sunt Lorem et ea nisi eu. Nulla excepteur laboris labore reprehenderit.",
+    "address": "506 Oceanview Avenue, Glenbrook, Northern Mariana Islands, 8709",
+    "phone": "+1 (929) 583-3731",
+    "email": "undefined.undefined@undefined.co.uk",
+    "name": "Uncorp",
+    "guid": "343c52aa-8534-441c-8952-890ccc457320",
+    "index": 1,
+    "_id": "584e14959e7c452600ac87b1"
+  },
+  {
+    "longitude": "163.292577",
+    "latitude": "74.239766",
+    "about": "Voluptate qui esse cillum exercitation ut deserunt ea nulla consequat elit exercitation non officia. Voluptate non nostrud ea in exercitation adipisicing dolor occaecat mollit irure. Labore nostrud id incididunt cupidatat exercitation veniam sit anim non nulla esse aute reprehenderit dolore. Exercitation amet labore aliqua ex id. Consequat deserunt tempor exercitation nisi excepteur quis. Ipsum ex sit dolore proident nulla. Ex duis nostrud quis proident consectetur irure ad eiusmod incididunt proident excepteur.",
+    "address": "554 Carlton Avenue, Lisco, Virgin Islands, 4447",
+    "phone": "+1 (961) 439-2094",
+    "email": "undefined.undefined@undefined.name",
+    "name": "Reversus",
+    "guid": "7ca38ccd-caa8-4f36-9a75-a4de84be1777",
+    "index": 2,
+    "_id": "584e149511be8aba255817d8"
+  },
+  {
+    "longitude": "-122.883481",
+    "latitude": "-27.603826",
+    "about": "Minim aliquip aliquip dolor anim proident qui laborum ex dolor reprehenderit. Irure sunt dolore laborum nostrud occaecat officia minim minim nostrud nulla aute eu. Laboris commodo non adipisicing culpa ad. Est occaecat incididunt eu sit. Voluptate dolore elit exercitation Lorem eiusmod amet id ex nostrud laboris in ex.",
+    "address": "366 Beaver Street, Chamizal, Illinois, 4502",
+    "phone": "+1 (901) 488-3263",
+    "email": "undefined.undefined@undefined.info",
+    "name": "Kidgrease",
+    "guid": "e534ac10-bf52-4f29-8274-7d7749ed032a",
+    "index": 3,
+    "_id": "584e1495139dbfd45cafdc81"
+  },
+  {
+    "longitude": "141.97034",
+    "latitude": "-44.807522",
+    "about": "Ut id dolore aute aliqua mollit labore pariatur laborum do eiusmod. Esse amet minim ex occaecat aliquip sint sit dolor. Ullamco culpa non consequat nulla. Velit commodo consectetur ut officia incididunt nostrud ex quis sit nisi fugiat veniam exercitation.",
+    "address": "393 Harway Avenue, Bowie, Federated States Of Micronesia, 2820",
+    "phone": "+1 (973) 442-3939",
+    "email": "undefined.undefined@undefined.ca",
+    "name": "Gronk",
+    "guid": "66f75dda-5c2c-4a4c-8160-9340a6e08ba0",
+    "index": 4,
+    "_id": "584e1495028c6f34589d5700"
+  }
+]
